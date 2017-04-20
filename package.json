@@ -2,7 +2,7 @@
   "name": "mypage",
   "version": "0.0.0",
   "license": "MIT",
-  "angular-cli": {},
+  "angular/cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
